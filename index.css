@@ -1,0 +1,13 @@
+#mainDiv{
+    justify-content: center;
+}
+.btn{
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+    color:aliceblue;
+    background-color: steelblue;
+    border-radius: 50px;
+    border: 5px solid yellow;
+
+}
